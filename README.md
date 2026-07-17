@@ -2,14 +2,18 @@
 
 ## Project Overview
 
-This project explores the economic trends and layoff patterns of the global layoffs from 2020 to 2023. I took raw data through an ------------------------------------
+This project explores the economic trends and layoff patterns of the global layoffs from 2020 to 2023. I took raw data through a complete analytics pipeline by executing data cleaning and exploratory data analysis in SQL before designing a dynamic Power BI dashboard. By processing the dataset through this workflow, the project uncovers the structural differences between corporate restructuring and financial distress across industries and different funding levels.
 
 
 ## Software Used
-- Database Management: MySQL
-- Data Transformation and Querying: SQL (CTEs, Window Functions, Self-Joins)
-- Provisional Analysis and Prototyping: Microsoft Excel (Pivot Tables, Conditional Formatting)
-- Data Modeling & Visualization: Microsoft Power BI, DAX
+
+Database Management: MySQL
+
+Data Transformation and Querying: SQL (CTEs, Window Functions, Self-Joins)
+
+Provisional Analysis and Prototyping: Microsoft Excel (Pivot Tables, Conditional Formatting)
+
+Data Modeling & Visualization: Microsoft Power BI, DAX
 
 
 ## Repo Structure
