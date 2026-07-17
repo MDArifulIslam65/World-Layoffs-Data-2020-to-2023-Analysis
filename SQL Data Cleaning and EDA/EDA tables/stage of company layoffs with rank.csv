@@ -1,0 +1,84 @@
+company,stage,total_laid_off,ranking
+Booking.com,Acquired,4375,1
+"WhiteHat Jr",Acquired,2100,2
+Yahoo,Acquired,1600,3
+Agoda,Acquired,1500,4
+"OLX Group",Acquired,1500,4
+Shutterfly,Acquired,1160,5
+Amazon,Post-IPO,18150,1
+Google,Post-IPO,12000,2
+Meta,Post-IPO,11000,3
+Salesforce,Post-IPO,10090,4
+Philips,Post-IPO,10000,5
+Microsoft,Post-IPO,10000,5
+Byju's,"Private Equity",4000,1
+Airbnb,"Private Equity",1900,2
+iFit,"Private Equity",300,3
+Dock,"Private Equity",190,4
+Relativity,"Private Equity",150,5
+SEND,Seed,300,1
+Crejo.Fun,Seed,170,2
+Yojak,Seed,140,3
+Curative,Seed,109,4
+NSO,Seed,100,5
+Udayy,Seed,100,5
+Wave,"Series A",300,1
+FrontRow,"Series A",275,2
+Stoqo,"Series A",250,3
+NS8,"Series A",240,4
+"Recur Forever","Series A",235,5
+"Butler Hospitality","Series B",1000,1
+Avo,"Series B",500,2
+Oriente,"Series B",400,3
+Alerzo,"Series B",400,3
+ZipRecruiter,"Series B",400,3
+Moladin,"Series B",360,4
+Ebanx,"Series B",340,5
+PuduTech,"Series C",1500,1
+OneTrust,"Series C",950,2
+Gorillas,"Series C",840,3
+Cerebral,"Series C",685,4
+Deliv,"Series C",669,5
+Curefit,"Series D",920,1
+Infarm,"Series D",550,2
+Bounce,"Series D",490,3
+Gympass,"Series D",467,4
+"Carbon Health","Series D",450,5
+Livspace,"Series D",450,5
+Vedantu,"Series E",1109,1
+"Magic Leap","Series E",1000,2
+Flexport,"Series E",640,3
+Opendoor,"Series E",600,4
+Workrise,"Series E",450,5
+OYO,"Series F",1850,1
+Toast,"Series F",1300,2
+Noom,"Series F",995,3
+Loggi,"Series F",800,4
+WeDoctor,"Series F",500,5
+PaisaBazaar,"Series G",1500,1
+Cars24,"Series G",600,2
+Compass,"Series G",375,3
+Deliveroo,"Series G",367,4
+ServiceTitan,"Series G",221,5
+Gopuff,"Series H",2300,1
+Unacademy,"Series H",1500,2
+Stripe,"Series H",1050,3
+WeWork,"Series H",850,4
+ShareChat,"Series H",500,5
+Swiggy,"Series I",2250,1
+Grab,"Series I",360,2
+Thumbtack,"Series I",160,3
+"Minute Media","Series I",50,4
+Sweetgreen,"Series I",35,5
+Ola,"Series J",2800,1
+Zomato,"Series J",620,2
+"VerSe Innovation","Series J",150,3
+iFood,Subsidiary,355,1
+"SAP Labs",Subsidiary,300,2
+Waymo,Subsidiary,209,3
+"Uber Freight",Subsidiary,150,4
+Better.com,Unknown,3900,1
+ByteDance,Unknown,3750,2
+Katerra,Unknown,2434,3
+Crypto.com,Unknown,2260,4
+Instacart,Unknown,1877,5
