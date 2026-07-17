@@ -58,6 +58,23 @@ Page 1: Global Impact & Industry Reach: Features a chronological timeline, geogr
 Page 2: Diagnostic Metrics & Deep Dives: Delivers diagnostic insights via a conditionally formatted matrix highlighting Year-over-Year (YoY) percentage shifts, alongside a scatter plot tracking repeat layoff severity. Offers native drilldowns (Industry ➔ Company, Country ➔ Location) for granular exploration.
 
 
+## Key Insights
+
+While 2020 represented an immediate macroeconomic shock, 2022 marked a deeper structural collapse across major industries. The United States experienced a 1,014% year-over-year surge in job losses, escalating from 9,470 in 2021 to 105,526 in 2022, while global markets mirrored this during the same period.
+
+Financial backing heavily dictated whether a company could survive a market downturn. Companies that successfully executed partial downsizings held an average funding of $756.6 million, whereas companies that suffered complete operational shutdowns raised an average of only $131.9 million.
+
+Early-stage startups bore the highest risk of total corporate mortality during this period. When analyzing complete business failures, Seed-stage companies experienced the highest volume of closures, followed in descending order by Series B and Series A organizations.
+
+The highest-funded tier of tech companies accounted for the vast majority of absolute job losses, shedding over 95,000 employees. Despite this high volume, their immense capital reserves meant they averaged a relatively low rate of 0.22 employees laid off per million dollars raised.
+
+
+## Dashboard Screenshots
+
+<img width="1539" height="868" alt="image" src="https://github.com/user-attachments/assets/a7317343-6984-4164-b899-a856f3e3b6d7" />
+
+<img width="1541" height="872" alt="image" src="https://github.com/user-attachments/assets/0e1502f9-3ad1-439a-8388-51b03cf020ae" />
+
 
 
   
