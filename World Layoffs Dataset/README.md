@@ -1,6 +1,5 @@
-## 🗂️ Core Base Dataset Schema
-* **Filename:** `layoffs_(cleaned_dataset).csv`
-* **Granularity:** One row per individual layoff announcement event.
+##Dataset Schema
+* **Filename:** `layoffs.csv`
 
 | Column Name | Data Type | Key Constraints | Description / Purpose |
 | :--- | :--- | :--- | :--- |
