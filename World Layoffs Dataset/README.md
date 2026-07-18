@@ -1,1 +1,15 @@
+## 🗂️ Core Base Dataset Schema
+* **Filename:** `layoffs_(cleaned_dataset).csv`
+* **Granularity:** One row per individual layoff announcement event.
 
+| Column Name | Data Type | Key Constraints | Description / Purpose |
+| :--- | :--- | :--- | :--- |
+| `company` | `VARCHAR(150)` | Non-Null | The registered name of the tech organization executing the workforce reduction (e.g., *Uber, Booking.com, Airbnb*). |
+| `location` | `VARCHAR(100)` | Non-Null | The city or metropolitan hub where the layoffs were anchored or headquartered (e.g., *San Francisco, Bengaluru, London*). |
+| `industry` | `VARCHAR(100)` | Non-Null | The specific commercial vertical or sector the business operates within (e.g., *Consumer, Crypto, Retail, Finance*). |
+| `total_laid_off` | `INT` | Nullable | The absolute headcount of personnel terminated during this specific layoff event. |
+| `percentage_laid_off` | `DECIMAL(5,4)` | Nullable | The explicit proportion of the company's total workforce eliminated, represented as a fraction (e.g., `0.1500` for 15%, `1.0000` for a total shutdown). |
+| `date` | `DATE` | Non-Null | The exact calendar date the layoff round was publicly announced or executed (`YYYY-MM-DD`). |
+| `stage` | `VARCHAR(50)` | Non-Null | The maturity/venture capital tier of the organization at the time of the cuts (e.g., *Seed, Series A, Series B, Post-IPO, Acquired*). |
+| `country` | `VARCHAR(100)` | Non-Null | The geographic nation hosting the operation or headquarters (e.g., *United States, India, Sweden*). |
+| `funds_raised_millions` | `FLOAT` | Nullable | The cumulative financial backing or venture funding secured by the firm prior to the event, denominated in Millions of USD. |
