@@ -1,7 +1,7 @@
 ##Dataset Schema
 * **Filename:** `layoffs.csv`
 
-| Column Name | Data Type | | Description / Purpose |
+| Column Name | Data Type | Description / Purpose |
 | :--- | :--- | :--- |
 | `company` | `VARCHAR(150)` | The registered name of the tech organization executing the workforce reduction (e.g., *Uber, Booking.com, Airbnb*). |
 | `location` | `VARCHAR(100)` | The city or metropolitan hub where the layoffs were anchored or headquartered (e.g., *San Francisco, Bengaluru, London*). |
